@@ -21,7 +21,7 @@ Características:
 
 **Node version 14.x**
 
-### Instalat pacotes
+### Instalar Pacotes
 
 ```shell
 npm i
